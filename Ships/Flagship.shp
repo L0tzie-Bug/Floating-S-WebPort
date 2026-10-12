@@ -1,0 +1,10 @@
+{
+	"structure_image":"flagship_structural.png.dat",
+	"texture_image":"flagship_texture.png.dat",
+	"offset":{"x":0.0, "y":-5.0},
+	"ship_name":"Flagship",
+	"created_by":"Gabriele Giuseppini",
+	"year_built":"1985",
+	"description":
+		"Not to be confused with a flagship that would usually guide the bigger ship around, this flagship is used as a ship to hold flags up to honor three countries dear to the game's developer. The flags are made of cloth material - check out how it behaves in the wind!"
+}

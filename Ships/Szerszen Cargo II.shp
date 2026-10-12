@@ -1,0 +1,10 @@
+{
+	"structure_image":"szerszen_structural.png.dat",
+	"electrical_image":"szerszen_electrical.png.dat",
+	"ropes_image":"szerszen_ropes.png.dat",
+	"texture_image":"szerszen_texture.png.dat",
+	"offset":{"x":0.0, "y":-5.0},
+	"ship_name":"Szerszen Cargo II",
+	"created_by":"RetroGraczzPL",
+	"year_built":"1973"
+}
